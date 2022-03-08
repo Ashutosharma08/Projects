@@ -1,0 +1,10 @@
+What is Linear Regression and how does it work? What are the Assumptions that are involved?
+What is Logistic Regression, and how does it work? In LR, what is the loss function?
+What is the difference between regression and classification?
+What is Natural Language Processing, and how does it work? Give an example of NLP in action.
+What are the benefits of using evaluation metrics? What exactly do you mean by Confusion Matrix?
+How may the Confusion Matrix be used to assess model performance?
+What does sampling have to do with anything? What are some sampling techniques?
+What are the differences between Type 1 and Type 2 errors? In what situations do Type 1 and Type 2 errors become problematic?
+What are the circumstances in which Overfitting and Underfitting occur?
+What exactly do you mean when you say "normalization"? What is the difference between normalization and standardization?
